@@ -1,0 +1,24 @@
+{
+  "name": "vue-fullpage",
+  "version": "1.0.0",
+  "description": "fullpagejs like library for vue2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chist13/vue-fullpage.git"
+  },
+  "keywords": [
+    "fullpage",
+    "vue",
+    "vue2"
+  ],
+  "author": "Mantulenko Nikolai <chist13p@gmail.com> (https://github.com/chist13)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chist13/vue-fullpage/issues"
+  },
+  "homepage": "https://github.com/chist13/vue-fullpage#readme"
+}
